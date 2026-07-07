@@ -1,0 +1,11 @@
+Day,Predicted_Price,Model
+16,128.52380952380952,LinearRegression
+17,130.50595238095238,LinearRegression
+18,132.48809523809524,LinearRegression
+19,134.4702380952381,LinearRegression
+20,136.45238095238096,LinearRegression
+21,138.4345238095238,LinearRegression
+22,140.41666666666669,LinearRegression
+23,142.39880952380952,LinearRegression
+24,144.38095238095238,LinearRegression
+25,146.36309523809524,LinearRegression
