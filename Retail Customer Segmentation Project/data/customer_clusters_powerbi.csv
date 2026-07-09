@@ -1,0 +1,41 @@
+CustomerID,AnnualIncome,SpendingScore,Cluster,Segment,Cluster_Income_Center,Cluster_Spending_Center
+1,15,39,4,"Low Earners, High Spend",24.75,33.38
+2,15,81,2,Standard Customers,19.57,77.71
+3,16,6,1,"High Earners, Low Spend",24.92,9.58
+4,16,77,2,Standard Customers,19.57,77.71
+5,17,40,4,"Low Earners, High Spend",24.75,33.38
+6,17,76,2,Standard Customers,19.57,77.71
+7,18,6,1,"High Earners, Low Spend",24.92,9.58
+8,18,94,0,Budget Savers,24.8,94.0
+9,19,3,1,"High Earners, Low Spend",24.92,9.58
+10,19,72,2,Standard Customers,19.57,77.71
+11,20,14,1,"High Earners, Low Spend",24.92,9.58
+12,20,99,0,Budget Savers,24.8,94.0
+13,21,15,1,"High Earners, Low Spend",24.92,9.58
+14,21,77,2,Standard Customers,19.57,77.71
+15,22,13,1,"High Earners, Low Spend",24.92,9.58
+16,22,79,2,Standard Customers,19.57,77.71
+17,23,35,4,"Low Earners, High Spend",24.75,33.38
+18,23,66,3,"High Earners, High Spend",29.5,71.88
+19,24,29,4,"Low Earners, High Spend",24.75,33.38
+20,24,98,0,Budget Savers,24.8,94.0
+21,25,35,4,"Low Earners, High Spend",24.75,33.38
+22,25,73,3,"High Earners, High Spend",29.5,71.88
+23,26,5,1,"High Earners, Low Spend",24.92,9.58
+24,26,73,3,"High Earners, High Spend",29.5,71.88
+25,27,14,1,"High Earners, Low Spend",24.92,9.58
+26,27,82,2,Standard Customers,19.57,77.71
+27,28,32,4,"Low Earners, High Spend",24.75,33.38
+28,28,61,3,"High Earners, High Spend",29.5,71.88
+29,29,31,4,"Low Earners, High Spend",24.75,33.38
+30,29,87,0,Budget Savers,24.8,94.0
+31,30,4,1,"High Earners, Low Spend",24.92,9.58
+32,30,73,3,"High Earners, High Spend",29.5,71.88
+33,33,4,1,"High Earners, Low Spend",24.92,9.58
+34,33,92,0,Budget Savers,24.8,94.0
+35,33,14,1,"High Earners, Low Spend",24.92,9.58
+36,33,81,3,"High Earners, High Spend",29.5,71.88
+37,34,17,1,"High Earners, Low Spend",24.92,9.58
+38,34,73,3,"High Earners, High Spend",29.5,71.88
+39,37,26,4,"Low Earners, High Spend",24.75,33.38
+40,37,75,3,"High Earners, High Spend",29.5,71.88
